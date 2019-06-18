@@ -1,7 +1,7 @@
 {
   "name": "highlightjs-graphql",
-  "version": "1.0.6",
-  "description": "highlight.js syntax definition for GraphQL",
+  "version": "1.0.0",
+  "description": "Highlight.js syntax definition for GraphQL",
   "main": "graphql.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
