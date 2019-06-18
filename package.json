@@ -1,0 +1,25 @@
+{
+  "name": "highlightjs-graphql",
+  "version": "1.0.6",
+  "description": "highlight.js syntax definition for GraphQL",
+  "main": "graphql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dpeek/highlightjs-graphql.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "dpeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpeek/highlightjs-graphql/issues"
+  },
+  "homepage": "https://github.com/dpeek/highlightjs-graphql#readme"
+}
