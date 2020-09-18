@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-graphql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Highlight.js syntax definition for GraphQL",
   "main": "graphql.js",
   "scripts": {
